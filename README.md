@@ -3,11 +3,18 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-Escreva aqui os conteúdos aprendidos.
-
+### String: É uma sequência de caracteres alfanuméricos (letras, números e/ou símbolos).
+### Variaveis: São usadas para armazenar e manipular dados.
+### number: Usado para definir números, feito (R$)
+```js
+const fruta = banana
+console.log(nome)
+```
 
 
 ## Atividades desenvolvidas
-Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
-
-
+### Aprender a vender algo com uso de JS
+```js
+const nome = Miguel
+console.log(nome)
+```
