@@ -188,3 +188,30 @@ let tipoDeLuta = prompt(
 );
 mostrarMensagem(tipoDeLuta);
 ```
+## Boolean
+### Os operadores booleanos são operadores lógicos utilizados na área da tecnologia e da ciência da informação para fazer consultas em bases de dados.
+```js
+const administrador = prompt(
+"Seja Bem vindo Administrador, por favor insira seu nome para confirmar a indentidade"
+);
+
+var Luiz = new Boolean(true); 
+if (Luiz) {
+  console.log("parabens! você se autenticou.")
+} else {
+  console.log("você não está autenticado");
+}
+```
+
+## Links CODEPEN:
+### (Do link mais recente ao mais antigo)
+
+https://codepen.io/upscdpzn-the-selector/pen/GRVqbQj
+
+https://codepen.io/upscdpzn-the-selector/pen/mdNEZXE
+
+https://codepen.io/upscdpzn-the-selector/pen/qBzLjXx
+
+https://codepen.io/upscdpzn-the-selector/pen/JjQwJyM
+
+https://codepen.io/upscdpzn-the-selector/pen/NWZyZQW
